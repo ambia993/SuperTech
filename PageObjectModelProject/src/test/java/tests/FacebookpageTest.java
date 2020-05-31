@@ -1,6 +1,10 @@
 package tests;
 
-public class FacebookpageTest {
+import basePack.BaseClass;
+
+public class FacebookpageTest extends BaseClass{
+	
+
 	
 
 }
