@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-25T17:36:22Z" name="Default suite" finished-at="2020-05-25T17:38:55Z" duration-ms="152686">
+    <groups>
+    </groups>
+    <test started-at="2020-05-25T17:36:22Z" name="Default test" finished-at="2020-05-25T17:38:55Z" duration-ms="152686">
+      <class name="tests.BNSExcelDataTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:36:22Z" name="setup" finished-at="2020-05-25T17:36:47Z" duration-ms="24657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:36:50Z" name="bnspage" data-provider="bnsdata" finished-at="2020-05-25T17:37:08Z" duration-ms="17956" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[346-345-3450]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jun]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Submitted Form Data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bnspage -->
+        <test-method is-config="true" signature="extentStatus(org.testng.ITestResult)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:37:08Z" name="extentStatus" finished-at="2020-05-25T17:37:09Z" duration-ms="167" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bnspage status=SUCCESS method=BNSExcelDataTest.bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStatus -->
+        <test-method signature="bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:37:09Z" name="bnspage" data-provider="bnsdata" finished-at="2020-05-25T17:37:27Z" duration-ms="18522" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mona]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Khan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[346-345-3451]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Jul]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2002]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Submitted Form Data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bnspage -->
+        <test-method is-config="true" signature="extentStatus(org.testng.ITestResult)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:37:27Z" name="extentStatus" finished-at="2020-05-25T17:37:27Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bnspage status=SUCCESS method=BNSExcelDataTest.bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStatus -->
+        <test-method signature="bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:37:27Z" name="bnspage" data-provider="bnsdata" finished-at="2020-05-25T17:37:47Z" duration-ms="19876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mitu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Islam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[346-345-3452]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Aug]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2003]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Submitted Form Data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bnspage -->
+        <test-method is-config="true" signature="extentStatus(org.testng.ITestResult)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:37:47Z" name="extentStatus" finished-at="2020-05-25T17:37:47Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bnspage status=SUCCESS method=BNSExcelDataTest.bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStatus -->
+        <test-method signature="bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:37:47Z" name="bnspage" data-provider="bnsdata" finished-at="2020-05-25T17:38:05Z" duration-ms="17725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[346-345-3453]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sep]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Submitted Form Data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bnspage -->
+        <test-method is-config="true" signature="extentStatus(org.testng.ITestResult)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:38:05Z" name="extentStatus" finished-at="2020-05-25T17:38:05Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bnspage status=SUCCESS method=BNSExcelDataTest.bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStatus -->
+        <test-method signature="bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:38:05Z" name="bnspage" data-provider="bnsdata" finished-at="2020-05-25T17:38:23Z" duration-ms="17806" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Farhan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zaman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[346-345-3454]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Oct]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2005]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Submitted Form Data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bnspage -->
+        <test-method is-config="true" signature="extentStatus(org.testng.ITestResult)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:38:23Z" name="extentStatus" finished-at="2020-05-25T17:38:23Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bnspage status=SUCCESS method=BNSExcelDataTest.bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStatus -->
+        <test-method signature="bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:38:23Z" name="bnspage" data-provider="bnsdata" finished-at="2020-05-25T17:38:38Z" duration-ms="15607" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ataur]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tarafder]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[346-345-3455]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Nov]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2006]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Submitted Form Data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bnspage -->
+        <test-method is-config="true" signature="extentStatus(org.testng.ITestResult)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:38:38Z" name="extentStatus" finished-at="2020-05-25T17:38:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bnspage status=SUCCESS method=BNSExcelDataTest.bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStatus -->
+        <test-method signature="bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:38:38Z" name="bnspage" data-provider="bnsdata" finished-at="2020-05-25T17:38:53Z" duration-ms="14944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sonia]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sultana]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ata@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[346-345-3456]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Dec]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2007]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Submitted Form Data]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bnspage -->
+        <test-method is-config="true" signature="extentStatus(org.testng.ITestResult)[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:38:53Z" name="extentStatus" finished-at="2020-05-25T17:38:53Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=bnspage status=SUCCESS method=BNSExcelDataTest.bnspage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:tests.BNSExcelDataTest@29176cc1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentStatus -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.BNSExcelDataTest@29176cc1]" started-at="2020-05-25T17:38:53Z" name="teardown" finished-at="2020-05-25T17:38:55Z" duration-ms="1803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.BNSExcelDataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
